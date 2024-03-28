@@ -13,7 +13,7 @@ git commit -m "update"
 echo -e "\033[32m正在为你备份中.........\033[0m"
 git remote add origin git@github.com:chuiyugin/Save_files.git
 echo -e "\033[32m正在为你备份中.........\033[0m"
-git push origin master --force
+git push origin main --force
 if [ $? -ne 0 ]; then
     echo -e "\033[31m 备份失败！请检查网络情况！ \033[0m"
 else

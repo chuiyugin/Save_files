@@ -1,0 +1,9 @@
+300: LogEOSOverlay: OverlayPath registry key not found
+300: LogEOSOverlay: Failed to initialize overlay module: PATH_NOT_CONFIGURED
+300: LogEOSAuth: FAccountPortalBrowserManager::Init: Failed to register overlay: EOS_NotConfigured
+300: LogEOSUI: Hot key event ignored because there are no known users.
+300: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+300: LogEOSUI: Hot key event ignored because there are no known users.
+300: LogEOSEcom: Purchase flow is disabled due to overlay setup failure (EOS_NotConfigured).
+300: LogEOSUI: Hot key event ignored because there are no known users.
+300: LogEOSUI: Social overlay is disabled due to overlay setup failure (EOS_NotConfigured).
